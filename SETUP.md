@@ -22,6 +22,8 @@ You can see your newly created database by typing:
 SHOW DATABASES;
 ```
 
+Install <a href="http://www.sequelpro.com/download">Sequel Pro</a>, an open source MySQL database app for Mac OS X.
+
 
 
 
