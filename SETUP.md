@@ -24,6 +24,9 @@ SHOW DATABASES;
 
 Install <a href="http://www.sequelpro.com/download">Sequel Pro</a>, an open source MySQL database app for Mac OS X.
 
+Once installed, connect to a local MySQL host by following <a href="http://www.sequelpro.com/docs/Connecting_to_a_local_MySQL_Server">these instructions</a>.  Make sure to change the password as well.
+
+Download the <a href="http://seanlahman.com/files/database/lahman2012-sql.zip">2012 Version - SQL version</a> of the Lahman's Baseball Database.
 
 
 
