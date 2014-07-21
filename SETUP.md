@@ -25,7 +25,6 @@ Once installed, connect to a local MySQL host by following <a href="http://www.s
 
 Download the <a href="http://seanlahman.com/files/database/lahman2012-sql.zip">2012 Version - SQL version</a> of the Lahman's Baseball Database.
 
-Add a new database by clicking Database > Add Database... in sequel pro.
-Name the new database "lahman2012".  Click Command+O and open the lahman2012.sql file downloaded earlier to add into the query editor.  Run all queries in the query editor to add Lahman's Baseball Database into the lahman2012 MySQL database.
+Click Command+O and open the lahman2012.sql file downloaded earlier to add into the query editor.  Run all queries in the query editor to add Lahman's Baseball Database into the lahman2012 MySQL database.
 
 
