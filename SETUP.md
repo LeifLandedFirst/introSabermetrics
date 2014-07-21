@@ -13,13 +13,10 @@ Now, setup a MySQL root password:
 ```
 /usr/local/mysql/bin/mysqladmin -u root password 'yourpassword'
 ```
-To create a new database (in this case called lahman2012): 
+
+In the future, open MySQL in terminal using the following command:
 ```
-CREATE DATABASE lahman2012;
-```
-You can see your newly created database by typing:
-```
-SHOW DATABASES;
+mysql --user=root -p
 ```
 
 Install <a href="http://www.sequelpro.com/download">Sequel Pro</a>, an open source MySQL database app for Mac OS X.
@@ -28,5 +25,7 @@ Once installed, connect to a local MySQL host by following <a href="http://www.s
 
 Download the <a href="http://seanlahman.com/files/database/lahman2012-sql.zip">2012 Version - SQL version</a> of the Lahman's Baseball Database.
 
+Add a new database by clicking Database > Add Database... in sequel pro.
+Name the new database "lahman2012".  Click Command+O and open the lahman2012.sql file downloaded earlier to add into the query editor.
 
 
